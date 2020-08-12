@@ -1,0 +1,110 @@
+@media (min-width: 1200px){
+html, body{font-size:16px;}
+.top-search, .top-shopping{margin-top:15px;}
+.callback-header{text-align:right;}
+ul.top-sellers-list li{width:32.4%; margin-right:7px;}
+.top-shopping-number{font-size:17px;}
+.navbar{margin-left:173px;}
+.callback-header{font-size:26px;}
+.callback-header a{font-size:20px;}
+
+
+#header{height:750px;background:url(../images/header-bg.jpg) 50% -50px no-repeat;}
+#header.inner{background:url(../images/header-bg.jpg) 50% -90px no-repeat;height:530px;}
+
+.header-title {margin-top: 80px;}
+.header-title h4{font-size:37px;}
+.header-title p{font-size:19px;}
+#inputs input {font-size:18px;}
+input[type="button"]{font-size:19px !important;}
+.input-text{font-size:19px;}
+.top-shopping  .price{font-size:19px;}
+#login-content a.button{font-size:23px !important;}
+ul.benefits-list li .benefits-ellipse{font-size:24px;}
+.about-box h5{font-size:33px;}
+.about-box p{font-size:16px;}
+.categories h5{font-size:25px;}
+.categories ul li a{font-size:16px;}
+.categories ul li:first-child a{font-size:18px;}
+.special h5{font-size:22px;}
+.special .name{font-size:20px}
+.special .discount{font-size:38px;}
+.top-sellers h5{font-size:25px;}
+ul.top-sellers-list li h6{font-size:19px;}
+ul.top-sellers-list .sale-price{font-size:16px;}
+ul.top-sellers-list .sale-price span{font-size:17px;}
+ul.top-sellers-list .price .msrp{font-size:16px;}
+ul.top-sellers-list .price .msrp span{font-size:16px;}
+.copyright{wfont-size:16px;margin-top:78px;}
+.powered{font-size:16px;margin-top:87px}
+.copyright p{margin-bottom:0px;}
+a.footer-logo{margin-left:20px;}
+
+.special h5{margin-left:60px;}
+.special .image-box{margin:0 auto;}
+.benefits-ellipse p{width:260px;margin:0 auto;}
+
+.content-inner-title h5{font-size:33px;}
+
+
+.content-inner-text p{font-size:16px;}
+
+#request-quote input[type="text"], 
+#request-quote input[type="email"], 
+#request-quote input[type="name"], 
+#request-quote input[type="tel"], 
+#request-quote textarea { font-size:17px;width:357px;}
+#request-quote textarea {width:100%;}
+
+input[type="button"], input[type="submit"], .button a, #button a, a.button, a#button, .button, #button{font-size:19px;}
+#request-quote input.phone-inner[type="tel"]{margin-left:31px;}
+/*BLOG*/
+ul.tree-list li a{font-size:16px;}
+.post-thumb .blog-post-title{font-size:20px;}
+ul.blog-list li .blog-post-text h5 a{font-size:25px;}
+ul.blog-list li .blog-post-text p{font-size:16px;}
+a.load-more{font-size:23px;}
+
+.blog-search input[type="text"]{font-size:17px;}
+.tags h6{font-size:23px;}
+
+ul.tags-list li a{font-size:15px;}
+ul.blog-list li .post-thumb{max-height:363px;}
+
+/*PRODUCTS*/
+#products ul.top-sellers-list li{margin-right: 7px;}
+//.filter-inner .price span{margin-left:25px;}
+
+a#accordion-header.collapsed{font-size:25px;}
+a#accordion-header{font-size:25px;}
+.filter-inner h4{font-size:18px;}
+.filter-inner .price input[type="text"]{width:100px;}
+
+/*PRODUCTS INNER*/
+ul.specifications-list li{width:554px;}
+
+.products-right-box h4{font-size:19px;}
+.stock  .price .msrp{font-size:18px;}
+.stock .price .msrp span{font-size:18px;}
+.stock  .sale-price{font-size:18px;}
+.stock .sale-price span{font-size:20px;}
+.are-in-stock,
+.out-in-stock{font-size:19px;}
+.products-righ-text p {font-size:16px;}
+.products-right-box .quantity{font-size:20px;}
+.products-right-box input[type="button"]{font-size:20px !important;}
+.products-right-box .add-card a.add-card {font-size:21px;}
+a.amazon-link{font-size:19px;}
+.specifications h5{font-size:25px;}
+ul.specifications-list li{font-size:17px;}
+.berocket_filter_slider.ui-widget-content, .berocket_filter_price_slider.ui-widget-content{width:246px;}
+
+ul.berocket_aapf_widget li label{margin-left:0px;}
+.products-right-box .quantity .eco-quantity{margin-left:0px;}
+.products-right-box .quantity p{margin-right:22px;}
+.products-right-box .quantity{width:250px;}
+
+.to-top{font-size:15px;color:#fff;position:absolute;right:15px;top:45px;}
+.adress-details .input-box, .adress-details-contacts .input-box{width:318px;}
+.payment-line{left:30px;}
+}

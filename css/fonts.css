@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'quicksandbold';
+    src: url('../fonts/Quicksand-Bold-webfont.eot');
+    src: url('../fonts/Quicksand-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Quicksand-Bold-webfont.woff2') format('woff2'),
+         url('../fonts/Quicksand-Bold-webfont.woff') format('woff'),
+         url('../fonts/Quicksand-Bold-webfont.ttf') format('truetype'),
+         url('../fonts/Quicksand-Bold-webfont.svg#quicksandbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'quicksandregular';
+    src: url('../fonts/Quicksand-Regular-webfont.eot');
+    src: url('../fonts/Quicksand-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Quicksand-Regular-webfont.woff2') format('woff2'),
+         url('../fonts/Quicksand-Regular-webfont.woff') format('woff'),
+         url('../fonts/Quicksand-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/Quicksand-Regular-webfont.svg#quicksandregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
